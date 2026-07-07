@@ -1,5 +1,7 @@
 # Controls
 
+Visuals are provided in the wiki: https://github.com/thricebite/Controls/wiki
+
 ### Dolphin Emulator
 
 This setup is by default using the player 1 wired pro controller (Device: SDL/0/Nintendo Switch Pro Controller).
